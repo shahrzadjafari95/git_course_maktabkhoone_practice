@@ -1,0 +1,3 @@
+this file created for checking git log, blam, and diff commands in git.
+Also, this file will be reviewed by the master
+
