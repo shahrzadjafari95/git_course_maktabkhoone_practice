@@ -1,2 +1,5 @@
 hello Mr.naieni
 thanks for explain and learning git for us. 
+
+note2: this text write for show git blame commands.
+ 
