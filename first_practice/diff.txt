@@ -1,4 +1,6 @@
-for check git diff command in git, we can use git diff or git diff HEAD, then we can see difference between last change.
-Also, if we want check difference in one file, we can use git blame file_name. 
+for check git diff command in git, we can use git diff or git diff HEAD, then we can see difference between last change
+in repo. 
+Also, if we want check difference in the one file, we can use git blame file_name. Then we will see author and commit in
+the file.
 
 thank you
