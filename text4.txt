@@ -1,1 +1,2 @@
-this file created for test checkout and reset cammands in git
+text:this file created for test checkout and reset cammands in git
+note2: test for blame cammand
