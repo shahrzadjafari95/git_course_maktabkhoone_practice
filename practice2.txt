@@ -1,0 +1,4 @@
+create this file for practice 2 in git cource of maktabkhoone
+we will want to check if clone repo from github and change files, then pushes this file after that git pull in first local 
+repo
+
