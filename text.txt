@@ -12,6 +12,7 @@ line 6
 
 line 7
 line 8: fix bug
- 
-line 9: changed 
+
+line 9 'add some changes for check conflict'
+>>>>>>> branch-5
 line 10
