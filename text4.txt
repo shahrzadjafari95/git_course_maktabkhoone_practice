@@ -2,3 +2,4 @@ text:this file created for test checkout and reset cammands in git
 note2: test for blame cammand
 
 line 3: test for merge in practice 3 
+line 4
